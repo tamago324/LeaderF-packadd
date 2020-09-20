@@ -1,6 +1,6 @@
 # Leaderf-packadd
 
-LeaderfF support for `:packadd`
+[LeaderF](https://github.com/Yggdroot/LeaderF) support for `:packadd`
 
 
 ## Installation
